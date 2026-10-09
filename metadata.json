@@ -1,0 +1,7 @@
+{
+  "name": "我以當一個廚師為榮 - 廚藝專業倫理與法規學習平台",
+  "description": "依據餐飲專業法規教材設計之互動學習系統，包含學生個人學號姓名檔案、章節學習字卡、模擬測驗與答題音效、實務情境分析與學習成果報告PDF輸出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
